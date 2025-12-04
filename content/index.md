@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: satoshin21の雑メモ
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+雑に感じたことをまとめる(予定)
